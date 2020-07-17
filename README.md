@@ -1,15 +1,6 @@
 ### Hi there 👋
 ## iOS app & Front-end Developer 
 
-### Projects: 
-
-* https://www.berad.fit/
-* https://itunes.apple.com/us/app/bsave/id1119138833?mt=8
-* https://apps.apple.com/us/app/practicing-happiness/id1482804943
-* https://apps.apple.com/us/app/go-connect-by-go-polly/id1344784964
-* https://apps.apple.com/us/app/nevaka/id1472916502
-* https://itunes.apple.com/in/app/carwale/id910137745?mt=8
-
 
 📫Connect me at 
 💬[stackoverflow](https://stackoverflow.com/users/4809746/shrawan "Stackoverflow's Homepage")
