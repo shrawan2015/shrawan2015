@@ -5,7 +5,7 @@
 📫Connect me at 
 💬[stackoverflow](https://stackoverflow.com/users/4809746/shrawan "Stackoverflow's Homepage")
 💬[Linkedin](https://www.linkedin.com/in/shrawankrsharma2010/ "Linkedin's Homepage")
-💬[Twitter](https://twitter.com/shrawan20104132 "Twitter's Homepage")
+💬[Blog](https://www.codewithshrawan.com "Twitter's Homepage")
 
 
 
